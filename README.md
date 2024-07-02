@@ -1,6 +1,6 @@
 # Amazon-Web-Scraper
 A comprehensive set of Jupyter notebooks for scraping data from Amazon. Extract product details, prices, ratings, and table data efficiently. Perfect for data analysis, research, and e-commerce insights. Easy setup and use with detailed documentation and examples.
-# Amazon Web Scraper
+
 
 ## Overview
 This project includes Jupyter notebooks designed to scrape data from Amazon's website. The goal is to extract relevant information from product pages and tables for further analysis.
