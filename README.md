@@ -56,8 +56,6 @@ This project is licensed under the MIT License.
 - [Pandas](https://pandas.pydata.org/)
 - [Requests](https://docs.python-requests.org/en/master/)
 
-- 
-
 # Necessary Files
 __pycache__/
 .ipynb_checkpoints/
